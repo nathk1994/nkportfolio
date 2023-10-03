@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Test Proj",
+        "stack": {
+            "name": "Angular",
+            "iconClasses": "fab fa-angular"
+        },
+        "description": "Test",
+        "sourceUrl": "",
+        "previewUrl": "",
+        "featured": false
+    }
+]
